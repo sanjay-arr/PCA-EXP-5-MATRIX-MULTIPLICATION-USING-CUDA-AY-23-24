@@ -36,10 +36,6 @@ Google Colab with NVCC Compiler
     
 ## PROGRAM:
 ```
-Developed By : Sriram Gopalan G
-Register No. : 212222230149
-```
-```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
 ```
